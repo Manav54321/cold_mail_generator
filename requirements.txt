@@ -559,3 +559,7 @@ zict @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_29a3x
 zipp==3.21.0
 zope.interface @ file:///Users/cbousseau/work/recipes/ci_py311/zope.interface_1678055276546/work
 zstandard==0.23.0
+streamlit==1.22.0
+pandas
+numpy
+scikit-learn
