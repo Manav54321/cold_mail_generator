@@ -6,7 +6,7 @@ Cold email generator for services company using groq, langchain and streamlit. I
 - Nike needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
 - Atliq is Software Development company can provide a dedicated software development engineer to Nike. So, the business development executive (Mohan) from Atliq is going to reach out to Nike via a cold email.
 
-![image](https://github.com/user-attachments/assets/cb3a74f3-4e50-42a1-bab3-2ffa9e7c3e17)
+file:///var/folders/96/8d_2l3_j2vn7zbh4q2tkhxbm0000gn/T/TemporaryItems/NSIRD_screencaptureui_FVW64K/Screenshot%202025-05-23%20at%2012.03.41%E2%80%AFAM.png
 
 
 
