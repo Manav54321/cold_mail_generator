@@ -9,4 +9,4 @@ unstructured
 selenium
 chromadb
 python-dotenv
-protobuf
+protobuf==3.20.*
