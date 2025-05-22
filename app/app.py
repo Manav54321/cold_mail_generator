@@ -1,5 +1,7 @@
 import streamlit as st
 from langchain_community.document_loaders import WebBaseLoader
+import numpy
+import chromadb
 
 from chains import Chain
 from portfolio import Portfolio
