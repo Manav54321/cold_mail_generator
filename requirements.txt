@@ -5,11 +5,8 @@ langchain==0.1.16
 streamlit==1.35.0
 pandas
 scikit-learn
-langchain
 langchain-community
 langchain-groq
 unstructured
 selenium
-chromadb==0.5.0
 python-dotenv
-protobuf==3.20.*
