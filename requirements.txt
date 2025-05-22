@@ -10,3 +10,4 @@ selenium
 chromadb
 python-dotenv
 protobuf==3.20.*
+python-3.11.8
