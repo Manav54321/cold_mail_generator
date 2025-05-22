@@ -10,7 +10,5 @@ langchain-groq==0.0.4
 unstructured==0.7.5
 selenium==4.9.1
 python-dotenv==1.0.0
-
-fastapi
-uvicorn[standard]
-langchain-community
+fastapi==0.95.1
+uvicorn[standard]==0.22.0
