@@ -1,13 +1,12 @@
 numpy==1.24.4
 chromadb==0.5.0
 protobuf==3.20.3
+langchain==0.1.16
 streamlit==1.35.0
 pandas
 scikit-learn
-langchain==0.1.16
 langchain-community
 langchain-groq
 unstructured
 selenium
 python-dotenv
-beautifulsoup4
