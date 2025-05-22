@@ -3,10 +3,10 @@ chromadb==0.4.24
 protobuf==3.20.3
 langchain==0.1.16
 streamlit==1.35.0
-pandas
-scikit-learn
-langchain-community
+pandas==1.5.3
+scikit-learn==1.3.2
+langchain-community==0.0.33
 langchain-groq
-unstructured
-selenium
-python-dotenv
+unstructured==0.10.25
+selenium==4.20.0
+python-dotenv==1.0.1
